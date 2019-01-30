@@ -1,0 +1,2422 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-1744031.5192682808" y="-711367.3275039156" width="3488063.0385365617" height="1422734.6550078313"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <spellcheck active="false"/>
+      <mode type="normal"/>
+    </settings>
+    <object id="82" type="button" x="681612.3818141622" y="8190.879600780689" r="0" s="2068.7744863287294" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1028.538636117922</w>
+        <h>681.2346407805348</h>
+      </size>
+    </object>
+    <object id="0_4843308" type="text" x="171262.74409821266" y="-295705.0799295102" r="0" s="666.1470931261141" class="strong">
+      <height>58.32</height>
+      <width>-116.76</width>
+      <p>
+        <text><![CDATA[Defining]]></text>
+      </p>
+      <p>
+        <text><![CDATA["the Cloud"]]></text>
+      </p>
+    </object>
+    <object id="3" type="image" x="539462.0560387641" y="-324954.67830279376" r="-26.97614065184186" s="192.645216822126">
+      <source w="950" h="534">
+        3022395115
+        <url>3022395115.jpg</url>
+      </source>
+      <resource>
+        <id>3022395115</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/5/9/7e92c9ae1afd7ca98f193be7dee8ed3745963.jpg</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Frack.0.mshcdn.com%2Fmedia%2FZgkyMDE0LzA0LzAxLzZlL0Nsb3VkQ29tcHV0LjgyODIxLmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn%2F84000dec%2Ff8e%2FCloud-Computing.jpg</sourceUrl>
+    </object>
+    <object id="21_4843308" type="button" x="399136.4204965958" y="-240354.557286471" r="-92.75105798928836" s="166.94680815701804" class="circle">
+      <type>circle</type>
+      <size>
+        <w>685.9</w>
+        <h>685.9</h>
+      </size>
+    </object>
+    <object id="10_4843308" type="text" x="400580.70672899246" y="-237262.56667336574" r="-90.50010379813853" s="33.028636040262654" class="body">
+      <height>29.16</height>
+      <width>-99.48</width>
+      <p>
+        <text><![CDATA[Prezi.com]]></text>
+      </p>
+    </object>
+    <object id="4_172487" type="button" x="577321.964967924" y="-232749.64713902152" r="-140.36702831941875" s="0.836131382674342" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>728.55</w>
+        <h>435.95</h>
+      </size>
+    </object>
+    <object id="20_4843308" type="text" x="167978.69169232497" y="-218933.95241391694" r="-32.572455234895884" s="70.74915732577747" class="body">
+      <height>58.32</height>
+      <width>-128.08800000000002</width>
+      <p>
+        <text><![CDATA[What *Is*]]></text>
+      </p>
+      <p>
+        <text><![CDATA["the Cloud"?]]></text>
+      </p>
+    </object>
+    <object id="22_4843308" type="text" x="223635.61915301374" y="-241118.20455376277" r="-4.6572848245044176e-15" s="449.0087428906241" class="body">
+      <height>87.48</height>
+      <width>-169.56</width>
+      <p>
+        <text><![CDATA[The Cloud is:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Virtualization]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Automation]]></text>
+      </p>
+    </object>
+    <object id="27_4843308" type="text" x="183451.78060707575" y="-229089.94069326474" r="3.963808950937728e-15" s="4.121591185669244" class="body">
+      <height>174.96</height>
+      <width>618.1</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[CPU, Disk, RAM, Network Cards are "virtualized" so that they can be used by many "virtual" computers resident on the machine]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Software is "Virtualized" so you don't have / need your own copy of it, and many users "share" it.]]></text>
+      </p>
+    </object>
+    <object id="18_172487" type="button" x="183858.38424839344" y="-213520.8282419529" r="0" s="3.8642809214591445" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>578.3</w>
+        <h>353.8</h>
+      </size>
+    </object>
+    <object id="29_4843308" type="text" x="183607.697579001" y="-213374.31720047828" r="-3.9638153302803444e-15" s="4.121584552403032" class="body">
+      <height>116.64</height>
+      <width>-364.512</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="3247103"><![CDATA[Self Service]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="3247103"><![CDATA[Infinite Scale]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="3247103"><![CDATA[Utility-Based Pricing and Service]]></text>
+      </p>
+    </object>
+    <object id="33_4843308" type="text" x="185617.5406988972" y="-229133.24770457132" r="-68.215523884897" s="4.079802500782676" class="body">
+      <height>116.64</height>
+      <width>252.85</width>
+      <p>
+        <text><![CDATA[Virtualization is taking a server or service + chopping it up into only the bits you need.]]></text>
+      </p>
+    </object>
+    <object id="34_4843308" type="text" x="199679.21446224858" y="-213288.9995503056" r="2.859977309464959e-15" s="5.712353024548344" class="body">
+      <height>87.48</height>
+      <width>-244.12800000000004</width>
+      <p>
+        <text><![CDATA[By automating the build]]></text>
+      </p>
+      <p>
+        <text><![CDATA[of your server or service,]]></text>
+      </p>
+      <p>
+        <text><![CDATA[costs go way down.]]></text>
+      </p>
+    </object>
+    <object id="44_4843308" type="text" x="215948.1814495658" y="-219917.54279795077" r="6.2497173970007175e-15" s="2.6140702044707047" class="body">
+      <height>291.6</height>
+      <width>357.95</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Hardware Virtualization just started in the late 1990s]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Broadband and Mobile]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Hardware speeds & capacity]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Amazon EC2 / Rackspace Cloud]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[The whole "SaaS" crowd... Salesforce, Google Apps eating competitor's lunch]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Economy]]></text>
+      </p>
+    </object>
+    <object id="45_4843308" type="button" x="215948.66298305636" y="-220235.3011399167" r="5.749659783234376e-15" s="2.841420301336781" class="circle">
+      <type>circle</type>
+      <size>
+        <w>541.85</w>
+        <h>541.9</h>
+      </size>
+    </object>
+    <object id="47_4843308" type="text" x="197597.0165421493" y="-240068.20594062115" r="5.21396660461356e-15" s="3.133353408785908" class="body">
+      <height>87.48</height>
+      <width>-259.152</width>
+      <p>
+        <text><![CDATA[...but! we need to scale to:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[50,000,000 users]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[900 employees]]></text>
+      </p>
+    </object>
+    <object id="56_4843308" type="button" x="267456.8023479658" y="-152166.07470982033" r="-15.518350345928368" s="113.05969837954453" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>474.3</w>
+        <h>286</h>
+      </size>
+    </object>
+    <object id="32_7492404" type="button" x="159327.02352817694" y="-117172.15685069704" r="43.61902941860433" s="68.86277809253518" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>886.2</w>
+        <h>640.45</h>
+      </size>
+    </object>
+    <object id="91_4843308" type="text" x="199263.23634337436" y="-237303.4705606445" r="57.427537418390045" s="3.606158782518979" class="body">
+      <height>87.48</height>
+      <width>-135.72</width>
+      <p>
+        <text><![CDATA[No problem...]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Click...]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Click...]]></text>
+      </p>
+    </object>
+    <object id="64_4843308" type="button" x="136629.42312024414" y="-188639.40091111706" r="3.2230431313880724e-15" s="40.55099325171193" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>408.65</w>
+        <h>365.75</h>
+      </size>
+    </object>
+    <object id="67_4843308" type="image" x="131482.1256841177" y="-191473.29116673567" r="2.955637023288706e-15" s="8.636817359954126">
+      <source w="504" h="292">
+        21194702
+        <url>21194702.jpeg</url>
+      </source>
+      <resource>
+        <id>21194702</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/d/0/7963187920794860d0fe482d0c6eae2cfde30.jpeg</url>
+      </resource>
+    </object>
+    <object id="6_4958481" type="text" x="226261.9862374608" y="-213205.97070303452" r="2.659720287474507e-15" s="6.142450433904276" class="body">
+      <height>87.48</height>
+      <width>-254.376</width>
+      <p>
+        <text><![CDATA[...while at the same time,]]></text>
+      </p>
+      <p>
+        <text><![CDATA[customers often feel that]]></text>
+      </p>
+      <p>
+        <text><![CDATA[service goes way up.]]></text>
+      </p>
+    </object>
+    <object id="46_122206027" type="button" x="525969.977052786" y="-155289.3119154939" r="-27.553651921016385" s="79.5039900233736" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="56_6548595" type="text" x="541757.0672005559" y="-182781.15318997964" r="2.7168127054190823e-15" s="12.026740011392647" class="body">
+      <height>29.16</height>
+      <width>-4.896</width>
+      <p>
+        <text><![CDATA[.]]></text>
+      </p>
+    </object>
+    <object id="58_6548595" type="text" x="479797.90397639724" y="-76823.80946308964" r="-28.304440380233505" s="1.5046724038257733" class="body">
+      <height>87.48</height>
+      <width>-548.976</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Open Source Technologies & Mindsets.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Client-Side technologies for RIA (jQuery, AJAX, etc).]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[NoSQL Databases, Data mining.]]></text>
+      </p>
+    </object>
+    <object id="35_7682016" type="button" x="479819.46853434335" y="-76828.79730912906" r="-28.303683230766055" s="1.8262718556811453" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>514.3</w>
+        <h>306.5</h>
+      </size>
+    </object>
+    <object id="60_6548595" type="text" x="479620.2130764244" y="-76885.56390985392" r="-28.303666674432005" s="2.251101658723396" class="body">
+      <height>29.16</height>
+      <width>-237.98400000000004</width>
+      <p>
+        <text><![CDATA[Technologists will need:]]></text>
+      </p>
+    </object>
+    <object id="62_6548595" type="text" x="490196.5921621625" y="-78322.55894385338" r="-28.303666674432005" s="2.251101658723396" class="body">
+      <height>29.16</height>
+      <width>-197.52</width>
+      <p>
+        <text><![CDATA[Businesses need to:]]></text>
+      </p>
+    </object>
+    <object id="65_6548595" type="button" x="490909.81953190995" y="-77275.71888483054" r="-28.30446184419482" s="1.687699393976352" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>463.15</w>
+        <h>283.4</h>
+      </size>
+    </object>
+    <object id="66_6548595" type="text" x="490907.01857301814" y="-77280.96160036838" r="-28.304440380233505" s="1.5046724038257733" class="body">
+      <height>174.96</height>
+      <width>464.35</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Include some R&D for cloud]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Have Performance-Based aspect to them]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[CIO & CTO working tight to investigate + leverage Cloud for cost savings.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Move some $$$ from IT into marketing]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Goal: Outsource all but core competency]]></text>
+      </p>
+    </object>
+    <object id="67_6548595" type="text" x="490724.71424467035" y="-77391.62041173244" r="-28.303666674432005" s="2.251101658723396" class="body">
+      <height>29.16</height>
+      <width>-170.28</width>
+      <p>
+        <text><![CDATA[Budgets need to:]]></text>
+      </p>
+    </object>
+    <object id="71_6548595" type="text" x="469696.5592052763" y="-71887.99722522833" r="-28.30435850088834" s="2.675802208580456" class="body">
+      <height>29.16</height>
+      <width>-246.288</width>
+      <p>
+        <text><![CDATA[Winning skills to hire for:]]></text>
+      </p>
+    </object>
+    <object id="70_6548595" type="text" x="469896.67657781526" y="-71822.39258353104" r="-28.305605322357806" s="1.7860522077308723" class="body">
+      <height>116.64</height>
+      <width>601.2</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Open Source Technologies & Mindsets.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA["Soft" skills like Curiousity, Speed, Raw Intelligence will overtake "hard" skills like specific languages.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[ONLY HIRE CORE COMPETENCE. Outsource all else.]]></text>
+      </p>
+    </object>
+    <object id="69_6548595" type="button" x="470012.8477426242" y="-71832.12236075307" r="-28.303701874541076" s="2.5399495771486618" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>540</w>
+        <h>233</h>
+      </size>
+    </object>
+    <object id="0_7722560" type="button" x="602256.0272636655" y="-360305.11245541525" r="0" s="426.2158647056114" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>780.25</w>
+        <h>452.9</h>
+      </size>
+    </object>
+    <object id="0_6732573" type="text" x="592174.2604088018" y="-427969.7791797359" r="-2.9756950479293087e-15" s="702.7472811064704" class="body">
+      <height>58.32</height>
+      <width>324.4110613738714</width>
+      <p>
+        <text><![CDATA[Data Islanding 0r Data on Cloud                          -What is the future?]]></text>
+      </p>
+    </object>
+    <object id="13_6734488" type="text" x="-28705.801404173562" y="-199004.60584351892" r="-29.811448605489527" s="663.3266087794233" class="strong">
+      <height>29.16</height>
+      <width>-212.376</width>
+      <p>
+        <text><![CDATA[1-5 Years from now...]]></text>
+      </p>
+    </object>
+    <object id="17_6734488" type="text" x="137176.93660027743" y="-26839.79429866254" r="0" s="666.1470931261141" class="strong">
+      <height>29.16</height>
+      <width>-219.144</width>
+      <p>
+        <text><![CDATA[5 - 15 years from now]]></text>
+      </p>
+    </object>
+    <object id="1_7253810" type="image" x="336078.7151617812" y="-208415.85957518307" r="0" s="122.32270272257186">
+      <source w="914" h="421">
+        21743064
+        <url>21743064.jpeg</url>
+      </source>
+      <resource>
+        <id>21743064</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/e/c/6a929ebbf6e53ffd7ec34bc188290a2f1441b.jpeg</url>
+      </resource>
+    </object>
+    <object id="4_7253810" type="button" x="377289.07926104567" y="-221314.06024073242" r="-4.15427504724545e-15" s="251.68790950913117" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>89.6</w>
+        <h>92.6</h>
+      </size>
+    </object>
+    <object id="5_7253810" type="button" x="330606.5884205732" y="-212185.52788292363" r="0" s="251.68790950913117" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>112</w>
+        <h>108</h>
+      </size>
+    </object>
+    <object id="6_7253810" type="button" x="293284.60737741494" y="-200749.26419827875" r="0" s="251.68790950913117" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>89</w>
+        <h>108</h>
+      </size>
+    </object>
+    <object id="32" type="button" x="73924.65602234972" y="-207215.31011137768" r="0" s="293.62700844753783" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>169</w>
+        <h>93</h>
+      </size>
+    </object>
+    <object id="17" type="image" x="80656.8902740313" y="-207214.23571438302" r="5.169880967993931e-15" s="50.5611642047569">
+      <source w="600" h="437">
+        3022395202
+        <url>3022395202.jpg</url>
+      </source>
+      <resource>
+        <id>3022395202</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/5/e/dcec4a058a1a4623e54d5c8a3a3270d1fe7cf.jpg</url>
+      </resource>
+      <sourceUrl>https%3A%2F%2Fglobindian.files.wordpress.com%2F2013%2F11%2Fmeghraj-gi.jpg%3Fw%3D600%26amp%3Bh%3D518</sourceUrl>
+    </object>
+    <object id="1_7254440" type="text" x="58889.20808546371" y="-209573.29046189558" r="-41.34243939184323" s="172.37644300226611" class="head">
+      <height>29.16</height>
+      <width>-129.096</width>
+      <p>
+        <text><![CDATA[Government]]></text>
+      </p>
+    </object>
+    <object id="20" type="image" x="60356.33956026875" y="-166015.42320653144" r="-10.510782504107455" s="41.53141150037151">
+      <source w="638" h="479">
+        3022395253
+        <url>3022395253.jpg</url>
+      </source>
+      <resource>
+        <id>3022395253</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/7/6/715045b55e1d86bf11b0b74fa431cb0370df4.jpg</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fimage.slidesharecdn.com%2Fetreatarthritis20140522-140522173830-phpapp01%2F95%2Fdevelopment-of-a-mobile-medical-application-for-imaging-and-analysis-of-arthritis-of-the-hand-3-638.jpg%3Fcb%3D1400801969</sourceUrl>
+    </object>
+    <object id="3_7254440" type="text" x="40565.192349285164" y="-163552.04604616456" r="4.775459721037134" s="128.24856610847826" class="head">
+      <height>29.16</height>
+      <width>-112.464</width>
+      <p>
+        <text><![CDATA[Healthcare]]></text>
+      </p>
+    </object>
+    <object id="18_7682016" type="button" x="300265.25143095414" y="-297253.73789258004" r="-66.20913394663033" s="156.3412305598122" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>424</w>
+        <h>291</h>
+      </size>
+    </object>
+    <object id="2" type="image" x="293972.53500462114" y="-284927.25437885517" r="-66.20913343622658" s="45.2865032796854">
+      <source w="600" h="438">
+        21744351
+        <url>21744351.jpeg</url>
+      </source>
+      <resource>
+        <id>21744351</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/7/8/dedc8f76cda23d1645364d45db0c90fea0071.jpeg</url>
+      </resource>
+    </object>
+    <object id="0" type="text" x="307306.7456093445" y="-310158.33530095813" r="-66.20913174889486" s="87.19016551887265" class="body">
+      <height>87.48</height>
+      <width>357.75</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Cloud Computing today is what the electric grid was 100 years ago]]></text>
+      </p>
+    </object>
+    <object id="34" type="button" x="-54138.23773350538" y="-132199.85920327983" r="0" s="293.62700844753783" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>200</w>
+        <h>106</h>
+      </size>
+    </object>
+    <object id="6" type="text" x="-52103.45416227128" y="-141978.59512696086" r="0" s="229.43296655580468" class="body">
+      <height>29.16</height>
+      <width>-156.024</width>
+      <p>
+        <text><![CDATA[Robotics and AI]]></text>
+      </p>
+    </object>
+    <object id="10" type="button" x="6725.1889577832835" y="-149474.65950217817" r="62.94790936092246" s="145.3095435503481" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>485.95</w>
+        <h>230.85</h>
+      </size>
+    </object>
+    <object id="8_7492404" type="button" x="-77752.93944324048" y="-142187.43050019527" r="-27.052070906915333" s="12.744053313658416" class="circle">
+      <type>circle</type>
+      <size>
+        <w>976.1</w>
+        <h>976.1</h>
+      </size>
+    </object>
+    <object id="18" type="image" x="-78007.79383513662" y="-142013.1137239591" r="-27.052101407582402" s="18.879039212644912">
+      <source w="360" h="355">
+        21745339
+        <url>21745339.jpeg</url>
+      </source>
+      <resource>
+        <id>21745339</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/d/7/7d9a376c152aa2eb6af33d53404ca17c236fd.jpeg</url>
+      </resource>
+    </object>
+    <object id="12_7375810" type="button" x="-21462.816305623153" y="76086.06939286858" r="30.320656082489457" s="215.28834238998607" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>298.95</w>
+        <h>195.3</h>
+      </size>
+    </object>
+    <object id="33" type="button" x="53272.821248552784" y="-164452.22019250187" r="-10.510782504107445" s="291.33134906991484" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>143.55</w>
+        <h>71.7</h>
+      </size>
+    </object>
+    <object id="63_6548595" type="button" x="490357.27655291726" y="-78234.68141466097" r="-28.303676035574973" s="1.5572230993015599" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>463.15</w>
+        <h>283.4</h>
+      </size>
+    </object>
+    <object id="61_6548595" type="text" x="490301.5985234754" y="-78195.35851219173" r="-28.30444020827485" s="1.3570338392592007" class="body">
+      <height>145.8</height>
+      <width>390.55</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Think how you can "give it away".]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Empower IT with more ownership (Biz+Tech Savvy leaders).]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Learn how to launch in Beta + have higher risk tolerance.]]></text>
+      </p>
+    </object>
+    <object id="123" type="button" x="616311.1627594482" y="-43501.27988125492" r="-3.941178173580963e-15" s="132.64825340503927" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>715</w>
+        <h>411</h>
+      </size>
+    </object>
+    <object id="26_7380011" type="button" x="287340.6307508965" y="-51024.36904338367" r="-27.052088492081342" s="305.93527168605675" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>314</w>
+        <h>205</h>
+      </size>
+    </object>
+    <object id="57_7380011" type="button" x="474062.1209223159" y="15082.413471077854" r="38.34677910984434" s="256.5147115834327" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>281.05</w>
+        <h>177</h>
+      </size>
+    </object>
+    <object id="64" type="image" x="479237.5514394665" y="6983.856208652057" r="38.34677718706325" s="59.75116927819509">
+      <source w="652" h="330">
+        21749962
+        <url>21749962.png</url>
+      </source>
+      <resource>
+        <id>21749962</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/8/c/f5273397ca50d88bf1c2f3fa9accb0e21a5d3.png</url>
+      </resource>
+    </object>
+    <object id="9" type="button" x="9481.915453326525" y="-203622.63354235305" r="149.2812263058889" s="25.584720449342797" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>767.1629163386849</w>
+        <h>575.3721872540143</h>
+      </size>
+    </object>
+    <object id="72" type="button" x="12076.147399439342" y="-201732.64293142187" r="-26.20191075279579" s="157.9757943363673" class="circle">
+      <type>circle</type>
+      <size>
+        <w>50.8</w>
+        <h>50.8</h>
+      </size>
+    </object>
+    <object id="6_7375810" type="button" x="-41913.35790676738" y="-15153.15172523319" r="-33.576419014130586" s="437.30920727846774" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>233.05</w>
+        <h>66.95</h>
+      </size>
+    </object>
+    <object id="3_7380011" type="button" x="-10430.944186289535" y="1855.7843118021476" r="55.670013292750085" s="29.22062887682971" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>512</w>
+        <h>453</h>
+      </size>
+    </object>
+    <object id="103" type="text" x="-51948.25492615079" y="-4541.941225760988" r="-33.5764199021725" s="147.3251970039658" class="head">
+      <height>116.64</height>
+      <width>418.8</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[the Cloud stores & serves most of your digital data.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Virtual Bookstores replacing the Physical.]]></text>
+      </p>
+    </object>
+    <object id="104" type="text" x="-45433.48520621677" y="-23199.573462135264" r="-33.57641783646235" s="226.69766118426065" class="head">
+      <height>29.16</height>
+      <width>-411</width>
+      <p>
+        <text><![CDATA[Cloud Technologies Become Ubiquitous]]></text>
+      </p>
+    </object>
+    <object id="124" type="button" x="682706.3161005729" y="-123207.9691625105" r="-27.553651921016385" s="99.39868617881754" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>867.1</w>
+        <h>503.85</h>
+      </size>
+    </object>
+    <object id="5_7375810" type="text" x="389156.48632392695" y="-102062.68006555103" r="-21.533884980257696" s="26.08453036352456" class="body">
+      <height>29.16</height>
+      <width>-278.328</width>
+      <p>
+        <text><![CDATA[Including (gasp!) Micro$oft's]]></text>
+      </p>
+    </object>
+    <object id="1_7380011" type="text" x="-26037.462414841422" y="28306.62893868246" r="55.670013210864575" s="45.47046586176013" class="body">
+      <height>29.16</height>
+      <width>-246.19200000000004</width>
+      <p>
+        <text><![CDATA[MEDIA: 3000 years ago]]></text>
+      </p>
+    </object>
+    <object id="4_7380011" type="button" x="-1631.0810139665439" y="13608.000391540241" r="56.41411752379826" s="29.177292888002974" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>512</w>
+        <h>453</h>
+      </size>
+    </object>
+    <object id="6_7380011" type="text" x="-13703.090590068394" y="3883.9337823712635" r="55.6700132108646" s="32.47890418697157" class="body">
+      <height>29.16</height>
+      <width>-250.848</width>
+      <p indent="1">
+        <text><![CDATA[Media: 100 years ago]]></text>
+      </p>
+    </object>
+    <object id="7_7380011" type="text" x="-5420.419735752249" y="13673.319608419932" r="56.4141105671664" s="32.43072770544949" class="body">
+      <height>29.16</height>
+      <width>-276.288</width>
+      <p indent="4">
+        <text><![CDATA[Media: Today]]></text>
+      </p>
+    </object>
+    <object id="11_7380011" type="text" x="291343.9814012999" y="-213345.81235677822" r="-3.856304123045888e-15" s="67.7838656395509" class="body">
+      <height>29.16</height>
+      <width>-176.20800000000003</width>
+      <p>
+        <text color="0"><![CDATA[Age of the Chimp]]></text>
+      </p>
+    </object>
+    <object id="12_7380011" type="text" x="323982.882611315" y="-224374.89938149712" r="3.981140559262098e-15" s="65.65837017074274" class="body">
+      <height>29.16</height>
+      <width>-198.81599999999997</width>
+      <p>
+        <text color="0"><![CDATA[Age of the Cro-mag]]></text>
+      </p>
+    </object>
+    <object id="13_7380011" type="text" x="382653.7085015239" y="-230116.69917077126" r="3.981140559262098e-15" s="65.65837017074274" class="body">
+      <height>29.16</height>
+      <width>-114.40800000000002</width>
+      <p>
+        <text color="3355443"><![CDATA[Age of Man]]></text>
+      </p>
+    </object>
+    <object id="23_7380011" type="text" x="619301.9084390019" y="-34932.85876889108" r="-90" s="4.687837729124122" class="body">
+      <height>29.16</height>
+      <width>306.8</width>
+      <p align="right">
+        <text color="16711680"><![CDATA[Now it gets really interesting...]]></text>
+      </p>
+    </object>
+    <object id="81" type="image" x="465054.2206196381" y="24653.79176395913" r="38.346779109844334" s="40.83552683735786">
+      <source w="259" h="259">
+        3022396108
+        <url>3022396108.swf</url>
+      </source>
+      <resource>
+        <id>3022396108</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/6/6/adfddd54cf8fec4b04e9b8560ef16de9af78b.swf</url>
+      </resource>
+      <sourceUrl>arrow_w.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="51_7380011" type="text" x="468725.0307451165" y="28263.636344333314" r="38.34677202406179" s="147.26645668143817" class="body">
+      <height>29.16</height>
+      <width>-442.75200000000007</width>
+      <p>
+        <text><![CDATA["Virtual likes"                     the new "currency".]]></text>
+      </p>
+    </object>
+    <object id="71" type="text" x="15375.155419367424" y="-204611.2111751427" r="-131.51285906841883" s="3.980993537061573" class="head">
+      <height>116.64</height>
+      <width>277.1</width>
+      <p>
+        <text><![CDATA[Moore's Law: # of transistors we can fit on a chip will double every 12-24 months.]]></text>
+      </p>
+    </object>
+    <object id="3_7412544" type="text" x="392635.9820024961" y="-214161.38883060912" r="54.41509818614063" s="19.47988908526113" class="body">
+      <height>29.16</height>
+      <width>-185.01600000000002</width>
+      <p>
+        <text color="16711680"><![CDATA[or, should we say...]]></text>
+      </p>
+    </object>
+    <object id="6_7412544" type="button" x="398567.655977255" y="-211109.37446960254" r="119.30994535659826" s="5.777206996282138" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>579</w>
+        <h>636</h>
+      </size>
+    </object>
+    <object id="7_7412544" type="text" x="397170.2332790333" y="-211595.74288879288" r="119.30997233803711" s="16.2769771540166" class="body">
+      <height>29.16</height>
+      <width>199.132133378798</width>
+      <p>
+        <text><![CDATA[Age of the CLOUD]]></text>
+      </p>
+    </object>
+    <object id="9_7492404" type="text" x="-76066.1771876058" y="-138234.56648142944" r="-27.052087924834105" s="22.99807327465946" class="body">
+      <height>58.32</height>
+      <width>262.75</width>
+      <p align="center">
+        <text><![CDATA[The first wave of robotics]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[(pretty dumb)]]></text>
+      </p>
+    </object>
+    <object id="13_7492404" type="button" x="-68512.56960949868" y="-127860.44168205583" r="2.929852326487329e-15" s="44.6089378257473" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>485.2</w>
+        <h>383.25</h>
+      </size>
+    </object>
+    <object id="12_7492404" type="text" x="-75771.67701243103" y="-121145.24421780783" r="-27.052087924834105" s="22.99807327465946" class="body">
+      <height>29.16</height>
+      <width>-233.37600000000003</width>
+      <p>
+        <text><![CDATA[The next wave: "smart"]]></text>
+      </p>
+    </object>
+    <object id="34_7492404" type="text" x="318681.529914774" y="-314929.4234985949" r="-66.20913236982857" s="34.630389275043704" class="body">
+      <height>58.32</height>
+      <width>163.05</width>
+      <p align="right">
+        <text><![CDATA[--Nick Carr,]]></text>
+      </p>
+      <p align="right">
+        <text><![CDATA["the Big Switch"]]></text>
+      </p>
+    </object>
+    <object id="5_7661572" type="text" x="480137.34306228714" y="-76458.59549783712" r="-15.531868704225216" s="1.504139664434341" class="body">
+      <height>145.8</height>
+      <width>716.25</width>
+      <p>
+        <text><![CDATA[And also...]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Config Management like Chef & the more dated Puppet]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Single Sign on (products like Symlified.com) and other "aggregator" and "centralizer" products like RightScale, CloudRows, etc.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA["Private Cloud" technologies like Eucalyptus and CloudStack]]></text>
+      </p>
+    </object>
+    <object id="6_7661572" type="text" x="490573.11055137106" y="-78020.33543477698" r="-28.305398071880735" s="0.4363000314801183" class="body">
+      <height>233.28</height>
+      <width>390.55</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Monitoring and CI solutions such as Monitis, BrowserMob, Pingdom, etc. (as the organization iterates quicker, changes that break the codebase or product will be caught faster)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Dedicate time to research]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Break the "Ops" out of "DevOps"]]></text>
+      </p>
+    </object>
+    <object id="7_7661572" type="text" x="490346.67968693766" y="-77977.83859262012" r="-28.30562879553664" s="3.5108157469593952" class="body">
+      <height>29.16</height>
+      <width>-84.576</width>
+      <p>
+        <text><![CDATA[AND -->]]></text>
+      </p>
+    </object>
+    <object id="8_7661572" type="text" x="470990.9036088973" y="-72201.37546219115" r="-44.61853973558594" s="1.782695053187977" class="body">
+      <height>116.64</height>
+      <width>526.85</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Business-and-Tech Savvy leaders who are willing to take risks"]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Jack of all Trades" folks who know a little about a lot]]></text>
+      </p>
+    </object>
+    <object id="9_7375810" type="button" x="207570.63032752983" y="112426.36873570929" r="-32.320569036949266" s="208.12965607456778" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>415.65822313404715</w>
+        <h>267.1877998451657</h>
+      </size>
+    </object>
+    <object id="112" type="text" x="185321.04614582402" y="-13571.801657945924" r="117.55366900745106" s="4.361972699325193" class="head">
+      <height>116.64</height>
+      <width>253.65</width>
+      <p>
+        <text><![CDATA[Napoleon on China:]]></text>
+      </p>
+      <p>
+        <text><![CDATA["let her sleep... for when she wakes, she will shake the world."]]></text>
+      </p>
+    </object>
+    <object id="13_7682016" type="text" x="183381.85780275692" y="-229747.52806648158" r="0" s="8.193269084106456" class="strong">
+      <height>29.16</height>
+      <width>-334.848</width>
+      <p>
+        <text><![CDATA[Virtual just means "not physical"]]></text>
+      </p>
+    </object>
+    <object id="14_7682016" type="text" x="183607.44090980757" y="-213886.61316147703" r="0" s="8.193266532850224" class="strong">
+      <height>58.32</height>
+      <width>123.3</width>
+      <p>
+        <text><![CDATA[Automation provides:]]></text>
+      </p>
+    </object>
+    <object id="16_7682016" type="image" x="144290.91522312554" y="-182333.13131327217" r="0" s="10.058502212260123">
+      <source w="34" h="26">
+        21961720
+        <url>21961720.gif</url>
+      </source>
+      <resource>
+        <id>21961720</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/3/e/e63b29ff23c1ab58140d874697365e0d122e2.gif</url>
+      </resource>
+    </object>
+    <object id="5_7704309" type="text" x="119707.91669060614" y="-248676.3849516228" r="-51.65323924086384" s="7.103574996346159" class="strong">
+      <height>29.16</height>
+      <width>-282.48</width>
+      <p>
+        <text><![CDATA[Pretty much all of you are...]]></text>
+      </p>
+    </object>
+    <object id="7_7722560" type="text" x="576480.2813412391" y="-222733.10305953067" r="129.09829825377545" s="0.06483413323914294" class="body">
+      <height>58.32</height>
+      <width>-90.21600000000001</width>
+      <p>
+        <text><![CDATA[Dave Jilk,]]></text>
+      </p>
+      <p>
+        <text><![CDATA[CEO]]></text>
+      </p>
+    </object>
+    <object id="8_7722560" type="text" x="576488.175319518" y="-225591.65388759723" r="129.09894622127987" s="0.05656363388306141" class="body">
+      <height>58.32</height>
+      <width>-90.21600000000001</width>
+      <p>
+        <text><![CDATA[Dave Jilk,]]></text>
+      </p>
+      <p>
+        <text><![CDATA[S]]></text>
+      </p>
+    </object>
+    <object id="12_7722560" type="image" x="401471.4930906476" y="-238422.06911870185" r="-90.49974530129263" s="0.4674927001241493">
+      <source w="2586" h="2531">
+        21981929
+        <url>21981929.jpeg</url>
+      </source>
+      <resource>
+        <id>21981929</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/0/9/272617ef66a937c95324682863036a2db96e4.jpeg</url>
+      </resource>
+    </object>
+    <object id="6_172487" type="button" x="400577.3130701961" y="-237188.81744416215" r="-90.50010376858982" s="10.520744789314701" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>379.85</w>
+        <h>313.65</h>
+      </size>
+    </object>
+    <object id="17_172487" type="button" x="134029.71274584773" y="-248443.05455797949" r="6.012297092727077" s="6.678504076535746" class="circle">
+      <type>circle</type>
+      <size>
+        <w>88.4</w>
+        <h>88.4</h>
+      </size>
+    </object>
+    <object id="12_172487" type="image" x="133850.62797692118" y="-248391.2285504765" r="-39.79814595901538" s="0.1761143593622875">
+      <source w="640" h="364">
+        21965542
+        <url>21965542.gif</url>
+      </source>
+      <resource>
+        <id>21965542</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/0/1/29819d0ba5865a2e3b993e995a0897e80dd2b.gif</url>
+      </resource>
+    </object>
+    <object id="11_172487" type="image" x="134069.48920660626" y="-248269.74838888968" r="-13.01552796528193" s="0.25618197889723465">
+      <source w="528" h="202">
+        21857906
+        <url>21857906.jpeg</url>
+      </source>
+      <resource>
+        <id>21857906</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/3/d/9da722f32c466e89a5e262b8be5b23d9fb4db.jpeg</url>
+      </resource>
+    </object>
+    <object id="14_172487" type="image" x="133968.6617090093" y="-248344.3001006826" r="-21.533878749029387" s="0.6109506599597784">
+      <source w="366" h="138">
+        22261963
+        <url>22261963.jpg</url>
+      </source>
+      <resource>
+        <id>22261963</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/e/5/3ef586fe3b43208f1952025bda9ef1ef78d45.jpg</url>
+      </resource>
+    </object>
+    <object id="9_172487" type="image" x="134144.19639642187" y="-248398.63966954956" r="29.30997532166646" s="0.39655509079404117">
+      <source w="450" h="311">
+        21625951
+        <url>21625951.jpeg</url>
+      </source>
+      <resource>
+        <id>21625951</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/0/d/6c355e0569b961a561e9f5d0cd5b0bf641d0a.jpeg</url>
+      </resource>
+    </object>
+    <object id="13_172487" type="image" x="134078.76606194922" y="-248489.07605264214" r="4.9256650305010035e-15" s="0.41459376380391244">
+      <source w="225" h="225">
+        22261789
+        <url>22261789.jpg</url>
+      </source>
+      <resource>
+        <id>22261789</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/2/9/c1016d3cd0ecc78147cc304c76482ffc49226.jpg</url>
+      </resource>
+    </object>
+    <object id="15_172487" type="image" x="133944.64035453176" y="-248449.94741697732" r="6.039537634854836" s="0.41680513546777725">
+      <source w="400" h="177">
+        21626818
+        <url>21626818.png</url>
+      </source>
+      <resource>
+        <id>21626818</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/1/4/8ad6f227dac32c2bbb3b86582a606f43a7f62.png</url>
+      </resource>
+    </object>
+    <object id="10_172487" type="image" x="134183.40277109775" y="-248557.12360049342" r="29.309960947487177" s="0.47725776441120676">
+      <source w="400" h="300">
+        21625954
+        <url>21625954.png</url>
+      </source>
+      <resource>
+        <id>21625954</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/b/1/4a8e2c413b59efc21cc165e8902953467f712.png</url>
+      </resource>
+    </object>
+    <object id="16_172487" type="image" x="133916.70613648777" y="-248576.8952223558" r="-28.241619249123072" s="0.39308441233538427">
+      <source w="452" h="337">
+        21625946
+        <url>21625946.jpeg</url>
+      </source>
+      <resource>
+        <id>21625946</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/2/2/1dfdd28b004e7977906b4d9fbd6c155ab9fa5.jpeg</url>
+      </resource>
+    </object>
+    <object id="0_1340195" type="button" x="-64113.42261462732" y="-153630.06878376304" r="-27.052070906915333" s="12.744053313658416" class="circle">
+      <type>circle</type>
+      <size>
+        <w>976.1</w>
+        <h>976.1</h>
+      </size>
+    </object>
+    <object id="2_1340195" type="image" x="-66899.56286498134" y="-154268.56519619905" r="-27.052073614858823" s="15.421155959127816">
+      <source w="275" h="411">
+        22355836
+        <url>22355836.jpeg</url>
+      </source>
+      <resource>
+        <id>22355836</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/9/9/c91242f50a60433af410db88904e696fd8d69.jpeg</url>
+      </resource>
+    </object>
+    <object id="6_1340195" type="image" x="-64053.22670691289" y="-157638.7586381069" r="-27.052071404510198" s="14.067810718951945">
+      <source w="280" h="280">
+        22355982
+        <url>22355982.jpeg</url>
+      </source>
+      <resource>
+        <id>22355982</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/3/3/e4a0f30005a3d5f979b672ff728b651e598ef.jpeg</url>
+      </resource>
+    </object>
+    <object id="4_1340195" type="image" x="-62115.45228637862" y="-153838.74620297356" r="-54.44879396766322" s="5.316489898524787">
+      <source w="1200" h="787">
+        22355913
+        <url>22355913.jpeg</url>
+      </source>
+      <resource>
+        <id>22355913</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/0/2/24e5a3634c16a3a2f9ddced73bba6feddec9b.jpeg</url>
+      </resource>
+    </object>
+    <object id="7_1340195" type="text" x="-64617.060653099994" y="-149792.5435446949" r="-27.052087924834105" s="22.99807327465946" class="body">
+      <height>58.32</height>
+      <width>262.75</width>
+      <p align="center">
+        <text><![CDATA[2nd wave:]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[more personal]]></text>
+      </p>
+    </object>
+    <object id="0_263505" type="button" x="789274.7101136375" y="-365437.3642394191" r="3.3825646492461596e-15" s="309.1088894339899" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>23</w>
+        <h>187</h>
+      </size>
+    </object>
+    <object id="5_122206027" type="button" x="317691.33384366357" y="13470.403004702357" r="3.7419409152414436e-15" s="0.27287309587315545" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="6_122206027" type="text" x="317751.5612938055" y="13475.876611443766" r="0" s="1.2845284848224794" class="head">
+      <height>29.16</height>
+      <width>-215.76000000000002</width>
+      <p>
+        <text><![CDATA[ANY QUESTIONS???]]></text>
+      </p>
+    </object>
+    <object id="7_122206027" type="text" x="707669.1047556052" y="-319616.39352409693" r="0" s="429.86692877126285" class="head">
+      <height>233.28</height>
+      <width>-270.192</width>
+      <p>
+        <text color="16711680"><![CDATA[Team leader:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[KARUNA LAKHANI]]></text>
+      </p>
+      <p>
+        <text color="16711680"><![CDATA[Team members:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[MAUMITA MAL]]></text>
+      </p>
+      <p>
+        <text><![CDATA[CHINMAY PATIL]]></text>
+      </p>
+      <p>
+        <text><![CDATA[SHRUTI MAHADIK]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ABHISHIKTH LAKKARAJU]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="13" type="text" x="337947.58342728415" y="-185683.574126613" r="0" s="258.1491752699927" class="strong">
+      <height>29.16</height>
+      <width>-318.792</width>
+      <p>
+        <text color="0"><![CDATA[Look forward by looking back...]]></text>
+      </p>
+    </object>
+    <object id="24" type="image" x="328575.2140771346" y="-120377.2859392379" r="62.94790936092246" s="58.385851023262845">
+      <source w="640" h="399">
+        3022397215
+        <url>3022397215.gif</url>
+      </source>
+      <resource>
+        <id>3022397215</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/4/b/f2c4a757bc250bdd88ba973d470761e69557b.gif</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fjilltxt.net%2Fwp-content%2Fuploads%2Fon-the-internet-nobody-knows-youre-a-dog-except-the-NSA.gif</sourceUrl>
+    </object>
+    <object id="80" type="text" x="823955.5016096152" y="335677.2386036386" r="0" s="2635.063330107521" class="body">
+      <height>58.32</height>
+      <width>-409.00800000000004</width>
+      <p>
+        <text weight="bold"><![CDATA[Upload 'U' in FUTURE 'CLOUD' ]]></text>
+      </p>
+      <p>
+        <text weight="bold"><![CDATA[under the framework of  'DATA ISLAND']]></text>
+      </p>
+    </object>
+    <object id="1" type="button" x="399046.1140457119" y="17321.957008713234" r="38.346779109844334" s="11.613120578959048" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="4" type="text" x="400639.1414262924" y="14955.075865053223" r="38.34677910984434" s="31.001669333238713" class="body">
+      <height>29.16</height>
+      <width>-148.99200000000002</width>
+      <p>
+        <text><![CDATA[CONCLUSION]]></text>
+      </p>
+    </object>
+    <object id="5" type="button" x="399046.23730571923" y="17321.587228690812" r="38.34677910984433" s="12.752358110134619" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1139.5348837209303</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="14" type="button" x="9086.250829357692" y="-203787.4732590054" r="-29.81144860548952" s="28.094560381026287" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1139.5348837209303</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="15" type="button" x="132922.70426446613" y="-249240.29948578382" r="6.012297092727073" s="0.15076640161406593" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="16" type="text" x="132929.65119079142" y="-249246.338734525" r="-23.875468804107776" s="0.3007749615537036" class="body">
+      <height>29.16</height>
+      <width>-419.04</width>
+      <p>
+        <text weight="bold"><![CDATA[ARE YOU USING CLOUD IN YOUR LIFE?]]></text>
+      </p>
+    </object>
+    <object id="22" type="image" x="-20812.60048852367" y="87749.31508173415" r="30.32065608248945" s="78.16669301315095">
+      <source w="658" h="346">
+        3026681647
+        <url>3026681647.png</url>
+      </source>
+      <resource>
+        <id>3026681647</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/a/0/e37d0cb05a3ce5ef5a7c8d3b981c6b7975bd0.png</url>
+      </resource>
+      <sourceUrl>2U_tech-stack%20(1).png</sourceUrl>
+    </object>
+    <object id="19" type="text" x="502.65139915298283" y="77731.96617973121" r="30.320656082489457" s="80.0327869107294" class="body">
+      <height>174.96</height>
+      <width>1257.4590054592668</width>
+      <p>
+        <text><![CDATA[Cloud-based software-as-a-service platform provides schools with ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[the comprehensive operating infrastructure they need to attract, ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[enroll, educate, support and graduate students globally. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[By blending live face-to-face classes, ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[dynamic course content ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[and real-world learning experiences,.]]></text>
+      </p>
+    </object>
+    <object id="25" type="image" x="398564.9069765612" y="-211104.18730223787" r="119.30994535659826" s="4.50989086111427">
+      <source w="640" h="457">
+        3026722762
+        <url>3026722762.jpg</url>
+      </source>
+      <resource>
+        <id>3026722762</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/3/3/aa828c07eb24e4e5644f37c9f8275d790f3c0.jpg</url>
+      </resource>
+      <sourceUrl>https%3A%2F%2Fgigaom2.files.wordpress.com%2F2014%2F02%2Fcloud-computing-man.jpg%3Fquality%3D80%26amp%3Bstrip%3Dall%26amp%3Bw%3D640</sourceUrl>
+    </object>
+    <object id="23" type="image" x="131366.1514980197" y="-187286.53004479432" r="0" s="15.091999679859791">
+      <source w="300" h="231">
+        21211579
+        <url>21211579.jpeg</url>
+      </source>
+      <resource>
+        <id>21211579</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/8/1/26be54226d862c5bc382d901a67523b908f95.jpeg</url>
+      </resource>
+    </object>
+    <object id="26" type="text" x="137300.20125631298" y="-194587.017608326" r="0" s="39.090096703268216" class="body">
+      <height>29.16</height>
+      <width>434.0385571601968</width>
+      <p>
+        <text><![CDATA[ FACEBOOK IS ON CLOUD:]]></text>
+      </p>
+    </object>
+    <object id="31" type="text" x="132313.20795263" y="-184095.81294979816" r="2.9616039733939497e-15" s="22.06534051227602" class="body">
+      <height>58.32</height>
+      <width>-363.48</width>
+      <p>
+        <text color="16711680"><![CDATA[Dozens of servers & technicians]]></text>
+      </p>
+      <p>
+        <text color="16711680"><![CDATA[(IS IT WEB OR INFRASTRUCTURE?)]]></text>
+      </p>
+    </object>
+    <object id="40" type="image" x="135254.78046332262" y="-189513.05583665578" r="3.548844419010638e-15" s="9.20705339819677">
+      <source w="259" h="259">
+        3099020173
+        <url>3099020173.swf</url>
+      </source>
+      <resource>
+        <id>3099020173</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/a/b/5ef9923e59924e7a28a0d44b63a558395a74b.swf</url>
+      </resource>
+      <sourceUrl>arrow_w.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="45" type="text" x="140419.51653103725" y="-184149.79023519746" r="6.053104273658905e-15" s="43.18366060193174" class="body">
+      <height>29.16</height>
+      <width>153.93599999999998</width>
+      <p align="right">
+        <text color="16711680"><![CDATA[A True WEB ]]></text>
+      </p>
+    </object>
+    <object id="46" type="text" x="284824.91197287105" y="-305698.04442478647" r="-66.20913343622658" s="151.21968434464873" class="strong">
+      <height>58.32</height>
+      <width>-182.49600000000004</width>
+      <p>
+        <text><![CDATA[Cloud Landscape:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Present Day]]></text>
+      </p>
+    </object>
+    <object id="47" type="text" x="14406.944179560769" y="-204974.78683115277" r="62.94790936092246" s="56.019857328786415" class="body">
+      <height>29.16</height>
+      <width>153.93599999999998</width>
+      <p align="right">
+        <text><![CDATA[``]]></text>
+      </p>
+    </object>
+    <object id="52" type="image" x="680224.6214227432" y="-62733.770759794155" r="-27.55365192101639" s="9.081719633133913">
+      <source w="700" h="517">
+        3099020284
+        <url>3099020284.png</url>
+      </source>
+      <resource>
+        <id>3099020284</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/9/e/3f23997176b8d67c650900b283ca0532a7b54.png</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Felasticsecurity.files.wordpress.com%2F2013%2F12%2Fsecurity-slide.png%3Fw%3D700%26amp%3Bh%3D517</sourceUrl>
+    </object>
+    <object id="53" type="text" x="678966.428440695" y="-65402.16983378274" r="-27.553651921016392" s="16.903819771532618" class="body">
+      <height>58.32</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[ClouDedup: Secure Deduplication with Encrypted     ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[                        Data for Cloud Storage]]></text>
+      </p>
+    </object>
+    <object id="55" type="button" x="104628.78409713678" y="-182948.04774549187" r="43.61902941860433" s="11.2303854935922" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="56" type="text" x="106650.07724518975" y="-184936.39218095902" r="43.61902941860434" s="15.566748605648362" class="body">
+      <height>58.32</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[ClouDedup: Secure Deduplication with Encrypted Data for Cloud Storage]]></text>
+      </p>
+    </object>
+    <object id="58" type="image" x="104420.87071107236" y="-182728.89711277795" r="43.61902941860433" s="8.371020506747557">
+      <source w="700" h="517">
+        3099020335
+        <url>3099020335.png</url>
+      </source>
+      <resource>
+        <id>3099020335</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/2/4/5b9068423c78011eec94254722b28186f35f4.png</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Felasticsecurity.files.wordpress.com%2F2013%2F12%2Fsecurity-slide.png%3Fw%3D700%26amp%3Bh%3D517</sourceUrl>
+    </object>
+    <object id="65" type="button" x="627830.1234983417" y="-241705.9565097465" r="53.410655078963764" s="10.1756201931702" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="69" type="image" x="627326.0040739657" y="-241249.21837643872" r="53.410655078963764" s="12.37241073583562">
+      <source w="580" h="326">
+        3099020704
+        <url>3099020704.png</url>
+      </source>
+      <resource>
+        <id>3099020704</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/f/2/4ebe94b3cddc3a9bbfe7b32014ee21d41bd37.png</url>
+      </resource>
+      <sourceUrl>https%3A%2F%2Fi0.wp.com%2Fgadget-help.com%2Fwp-content%2Fuploads%2F2014%2F07%2F393054.png</sourceUrl>
+    </object>
+    <object id="85" type="text" x="630540.6821634664" y="-241581.88241515635" r="53.410655078963764" s="15.566748605648371" class="body">
+      <height>58.32</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[      Moving from “Cloud” to “Fog” ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Networks towards 5G Mobile Systems]]></text>
+      </p>
+    </object>
+    <object id="87" type="image" x="176763.2972304036" y="-202860.20557831755" r="43.619029418604335" s="1.6519739332742118">
+      <source w="673" h="510">
+        3099020749
+        <url>3099020749.PNG</url>
+      </source>
+      <resource>
+        <id>3099020749</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/1/4/6a9c1d4db355a760953cc66ee48fe48fb1b0e.PNG</url>
+      </resource>
+      <sourceUrl>Capture.PNG</sourceUrl>
+    </object>
+    <object id="88" type="button" x="177316.25732852975" y="-204212.08040253934" r="43.61902941860431" s="0.24345681216553042" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8" type="text" x="399835.57500002865" y="17876.752824720457" r="38.34677910984434" s="19.53075436968943" class="body">
+      <height>116.64</height>
+      <width>495.02814143602143</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Multiple Island Frame work.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Intra-island flexibility.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Deduplication with encrypted data]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[InterCloud technology]]></text>
+      </p>
+    </object>
+    <object id="50" type="text" x="704997.7498942487" y="-391071.85304152063" r="0" s="429.86692877126285" class="body">
+      <height>58.32</height>
+      <width>-257.736</width>
+      <p>
+        <text color="16711680"><![CDATA[Mentor:]]></text>
+        <text><![CDATA[ ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Mr. Mrugendra Vasmatkar]]></text>
+      </p>
+    </object>
+    <object id="51" type="button" x="298553.6329005152" y="-414328.79878558853" r="0" s="47.82776042126276" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="57" type="text" x="295941.20133837406" y="-423204.96010522795" r="0" s="102.87950666841861" class="body">
+      <height>58.32</height>
+      <width>273.86692500286125</width>
+      <p align="center">
+        <text><![CDATA[Features of Data Island:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="60" type="text" x="299691.418850734" y="-412588.47444601555" r="0" s="87.41120530082843" class="body">
+      <height>145.8</height>
+      <width>418.3440000000001</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Multiple hierarchies of Physical Security]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Dedicated perimeter of firewalls and access control List]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Security.]]></text>
+      </p>
+    </object>
+    <object id="62" type="button" x="339685.50071080774" y="-419765.20907856926" r="0" s="47.82776042126276" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="67" type="button" x="176784.30097917843" y="-202879.0715368969" r="43.619029418604335" s="1.1732672563181752" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1139.5348837209303</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="68" type="text" x="399841.5670359975" y="-210362.01706655574" r="119.30994535659826" s="10.926400662603557" class="body">
+      <height>29.16</height>
+      <width>-195.336</width>
+      <p>
+        <text><![CDATA[15+ years from now]]></text>
+      </p>
+    </object>
+    <object id="48" type="button" x="-1087096.5661819982" y="-226438.1613315345" r="0" s="1619.129102411957" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="49" type="text" x="-853285.159077656" y="-636578.5953003382" r="0" s="4321.055158563771" class="body">
+      <height>29.16</height>
+      <width>253.76390027402772</width>
+      <p>
+        <text><![CDATA[REFERENCES:]]></text>
+      </p>
+    </object>
+    <object id="70" type="text" x="-1131265.8242909028" y="-178623.85392285232" r="0" s="1539.0070037127455" class="body">
+      <height>349.92</height>
+      <width>796.3130687503359</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://www.wisegeek.com/what-is-a-data-island.htm#didyouknowout]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[https://www.forrester.com/The+Evolution+Of+Cloud+Computing+Markets/fulltext/-/E-RES57232]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://theunwiredpeople.com/2014/11/13/moving-from-cloud-to-fog-networks-towards-5g-mobile-systems/]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://www.academia.edu/3312650/CLOUD_COMPUTING_WITH_REAL_LIFE_CASE_STUDIES_AND_A_NEW_APPROACH_OF_SOLVING_SECURITY_ISSUES_AND_PUTTING_DATA_IN_CLOUD]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://thoughtsoncloud.com/2014/05/future-cloud-computing-5-predictions/]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://www.billkiddsvolvo.com/imakenews.htm]]></text>
+      </p>
+    </object>
+    <object id="1_122206027" type="button" x="304034.6932573644" y="-391736.75692527276" r="0" s="7.9140410199824265" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="2_122206027" type="text" x="304184.4172607067" y="-393204.1454440106" r="0" s="16.418333076789715" class="body">
+      <height>29.16</height>
+      <width>-145.368</width>
+      <p>
+        <text><![CDATA[DRAWBACKS:]]></text>
+      </p>
+    </object>
+    <object id="3_122206027" type="text" x="304014.0186410483" y="-391733.33112474077" r="0" s="16.418333076789715" class="body">
+      <height>58.32</height>
+      <width>-255.02399999999994</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Browser compatibility]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Limited range sharing]]></text>
+      </p>
+    </object>
+    <object id="4_122206027" type="image" x="140842.52606299517" y="-189047.6435849749" r="0" s="14.013134737494745">
+      <source w="1366" h="768">
+        3217638454
+        <url>3217638454.png</url>
+        <mask x="407" y="127" w="504" h="458"/>
+      </source>
+      <resource>
+        <id>3217638454</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/2/af342b145e44b571602f152a885bde9b10fc2.png</url>
+      </resource>
+      <sourceUrl>Untitled.png</sourceUrl>
+    </object>
+    <object id="9_122206027" type="text" x="177037.04687302775" y="-202518.84878408047" r="43.61902941860431" s="1.6961087889245554" class="body">
+      <height>29.16</height>
+      <width>-17.400000000000002</width>
+      <p>
+        <text><![CDATA[w]]></text>
+      </p>
+    </object>
+    <object id="10_122206027" type="button" x="148975.62212220675" y="-193589.69571355573" r="3.2230431313880704e-15" s="3.7988059947387383" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="11_122206027" type="image" x="148975.62212220675" y="-193589.69571355573" r="0.12048077069734595" s="4.360334257481263">
+      <source w="650" h="354">
+        3217648147
+        <url>3217648147.jpe</url>
+      </source>
+      <resource>
+        <id>3217648147</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/7/7/eae029d7ecab62b73701b344c147bf9ea5b3b.jpe</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fwww.hcltech.com%2Fsites%2Fdefault%2Ffiles%2Frise-of-clouds.jpg</sourceUrl>
+    </object>
+    <object id="12_122206027" type="image" x="-68318.17516688346" y="-129272.44478586181" r="0" s="34.59460026800084">
+      <source w="560" h="315">
+        3217733704
+        <url>3217733704.jpe</url>
+      </source>
+      <resource>
+        <id>3217733704</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/3/f/0/27fe33bf4e3f2e72dc5519173c7b6f9596703.jpe</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fwww.imakenews.com%2Fbillkiddsvolvo%2Fbillkiddsvolvo_e_a003131468.JPG</sourceUrl>
+    </object>
+    <object id="13_122206027" type="text" x="-41489.63517631154" y="-129691.76528120371" r="0" s="52.69706576572322" class="body">
+      <height>116.64</height>
+      <width>552</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[A pilot fleet of 1,000 cars will run on Swedish and Norwegian roads this year]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[ Reveals vision of how Volvo Cars can lead in making the connected car a positive social force]]></text>
+      </p>
+    </object>
+    <object id="15_122206027" type="image" x="-20584.288701141595" y="24188.255829333095" r="55.670013210864575" s="20.125549593677338">
+      <source w="864" h="594">
+        3217745782
+        <url>3217745782.PNG</url>
+      </source>
+      <resource>
+        <id>3217745782</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/3/f/ce1bf09355801e6c841e6aeb715bf933bd74a.PNG</url>
+      </resource>
+      <sourceUrl>future1.PNG</sourceUrl>
+    </object>
+    <object id="16_122206027" type="image" x="-9420.585457879968" y="1573.8677357230767" r="55.670013292750085" s="11.177783396678478">
+      <source w="899" h="569">
+        3217747936
+        <url>3217747936.PNG</url>
+      </source>
+      <resource>
+        <id>3217747936</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/e/e/37c8d38f0493f8e6ca6efbd367bad94cc5b04.PNG</url>
+      </resource>
+      <sourceUrl>future2.PNG</sourceUrl>
+    </object>
+    <object id="17_122206027" type="image" x="-115.80445467627054" y="12869.03254652519" r="56.414117523798296" s="15.065085921921716">
+      <source w="919" h="520">
+        3217752826
+        <url>3217752826.PNG</url>
+        <mask x="0" y="0" w="911" h="462"/>
+      </source>
+      <resource>
+        <id>3217752826</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/b/3/df50d1acdb7b1af0b926a2b61a83f8e8cf419.PNG</url>
+      </resource>
+      <sourceUrl>future4.PNG</sourceUrl>
+    </object>
+    <object id="18_122206027" type="button" x="6086.513172060248" y="20733.918267089604" r="56.41411752379828" s="3.375270994139423" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="19_122206027" type="image" x="6084.98667415023" y="20101.651313298265" r="56.414117523798275" s="2.17919739943949">
+      <source w="506" h="338">
+        3217762369
+        <url>3217762369.jpe</url>
+      </source>
+      <resource>
+        <id>3217762369</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/d/4/7/0588cfbe6cab3e0d9a5822ec16460860205a8.jpe</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fcache4.asset-cache.net%2Fxc%2F176193280.jpg%3Fv%3D2%26c%3DIWSAsset%26k%3D2%26d%3DUc57W1VsEx549X2Yk2F8xUfcmvlFBu3-vmVSAdmoBzb7nre-GSTRPFV8Cmx5-wlJ0</sourceUrl>
+    </object>
+    <object id="20_122206027" type="image" x="6640.716718841449" y="21007.246198424804" r="56.41411752379826" s="2.1671295743917103">
+      <source w="478" h="359">
+        3217762918
+        <url>3217762918.jpe</url>
+      </source>
+      <resource>
+        <id>3217762918</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/5/f/ffea6973b21d5d9ea24b022860815ca863219.jpe</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fcache4.asset-cache.net%2Fxc%2F478641227.jpg%3Fv%3D2%26c%3DIWSAsset%26k%3D2%26d%3D5iAFMeG_JQNKvVjXmRH0K5rI5Vc2i-dBDdaz3kLqZQaFeNsL5YAhd2aubKmbR0mO0</sourceUrl>
+    </object>
+    <object id="21_122206027" type="image" x="5843.630393486446" y="20842.723645899106" r="56.41411752379828" s="2.1043727124757963">
+      <source w="600" h="382">
+        3217763527
+        <url>3217763527.jpe</url>
+      </source>
+      <resource>
+        <id>3217763527</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/a/0/1/792d8ec3697c65e0fe3c58c3ffaba85b4c53c.jpe</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fthecoolgadgets.com%2Fwp-content%2Fuploads%2F2012%2F05%2FLG-Cloud-service-my-media-box.jpg</sourceUrl>
+    </object>
+    <object id="22_122206027" type="text" x="5439.015351526644" y="21149.00975877448" r="56.414117523798275" s="6.784435155698221" class="body">
+      <height>29.16</height>
+      <width>-175.632</width>
+      <p>
+        <text><![CDATA[Media: Tomorrow]]></text>
+      </p>
+    </object>
+    <object id="23_122206027" type="text" x="-15139.070137079123" y="57741.325413420025" r="30.32065608248945" s="141.78296401235872" class="body">
+      <height>29.16</height>
+      <width>-188.99999999999997</width>
+      <p>
+        <text><![CDATA[Virtual Universities]]></text>
+      </p>
+    </object>
+    <object id="24_122206027" type="image" x="684452.8557919867" y="-120070.20655155163" r="-27.5536519210164" s="71.18000972766221">
+      <source w="952" h="433">
+        3217775317
+        <url>3217775317.PNG</url>
+      </source>
+      <resource>
+        <id>3217775317</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/d/2/a3be476df5d1ab6ac9405385fe93d60e5c180.PNG</url>
+      </resource>
+      <sourceUrl>wearabletec.PNG</sourceUrl>
+    </object>
+    <object id="25_122206027" type="button" x="632345.6800221622" y="-238478.6141021949" r="53.410655078963764" s="1.5470041867281599" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="26_122206027" type="button" x="110315.32403913522" y="-180086.1679932526" r="43.61902941860433" s="1.9716693813582222" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="27_122206027" type="image" x="110278.47607569568" y="-180041.687540263" r="43.619029418604335" s="1.4009482893936904">
+      <source w="1024" h="768">
+        3217786336
+        <url>3217786336.jpg</url>
+        <mask x="0" y="198" w="1024" h="570"/>
+      </source>
+      <resource>
+        <id>3217786336</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/a/4/35c6e20993c1c14ce8a8ca3648a3e879fdaca.jpg</url>
+      </resource>
+      <sourceUrl>2014-future-of-cloud-computing-4th-annual-survey-results-44-1024.jpg</sourceUrl>
+    </object>
+    <object id="28_122206027" type="button" x="111064.91931840034" y="-180960.46967122346" r="43.61902941860433" s="1.5211787103013004" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="29_122206027" type="image" x="111064.8769156805" y="-180960.46967122346" r="43.61902941860433" s="0.9628131782120107">
+      <source w="1024" h="768">
+        3217791529
+        <url>3217791529.jpg</url>
+      </source>
+      <resource>
+        <id>3217791529</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/6/2/d3442146e714cb76600ead4078cbc7d8cc144.jpg</url>
+      </resource>
+      <sourceUrl>2014-future-of-cloud-computing-4th-annual-survey-results-73-1024.jpg</sourceUrl>
+    </object>
+    <object id="30_122206027" type="text" x="110585.93819640807" y="-180454.18119772951" r="43.61902941860433" s="4.509818961369413" class="body">
+      <height>29.16</height>
+      <width>-133.776</width>
+      <p>
+        <text><![CDATA[Case Studies:]]></text>
+      </p>
+    </object>
+    <object id="31_122206027" type="button" x="111297.83745783937" y="-179534.89023413238" r="43.619029418604335" s="0.3017964121210156" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="32_122206027" type="image" x="330472.2801720893" y="-421371.42410168087" r="0" s="21.48823155214987">
+      <source w="750" h="375">
+        3217808548
+        <url>3217808548.jpe</url>
+      </source>
+      <resource>
+        <id>3217808548</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/1/9/6b87e3ad06c3e00c128da5e5316a57d72c0a5.jpe</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fi.webapps.microsoft.com%2Fr%2Fimage%2Fview%2F-%2F4164726%2FmedRes%2F1%2F-%2FWP7-8-SWU-jpg.jpg</sourceUrl>
+    </object>
+    <object id="33_122206027" type="text" x="330471.2841084574" y="-415570.26638435357" r="0" s="87.41120530082843" class="body">
+      <height>29.16</height>
+      <width>-124.60800000000002</width>
+      <p>
+        <text><![CDATA[Nokia Lumia]]></text>
+      </p>
+    </object>
+    <object id="34_122206027" type="image" x="349955.43942774594" y="-422442.7288154851" r="0" s="26.869897096533844">
+      <source w="670" h="503">
+        3217818892
+        <url>3217818892.jpe</url>
+        <mask x="0" y="0" w="390" h="413"/>
+      </source>
+      <resource>
+        <id>3217818892</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/2/c/f6cd3f7b2828c3a5e5652cf6645e0793ef3a4.jpe</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fpad2.whstatic.com%2Fimages%2Fthumb%2F8%2F8f%2FTransfer-Photos-from-the-Nokia-Lumia-710-to-a-PC-Step-3.jpg%2F670px-Transfer-Photos-from-the-Nokia-Lumia-710-to-a-PC-Step-3.jpg</sourceUrl>
+    </object>
+    <object id="35_122206027" type="text" x="349952.34489761386" y="-415570.26638435357" r="0" s="87.41120530082843" class="body">
+      <height>29.16</height>
+      <width>-143.256</width>
+      <p>
+        <text><![CDATA[Zune software]]></text>
+      </p>
+    </object>
+    <object id="36_122206027" type="image" x="341791.47418857604" y="-420721.77203280275" r="0" s="10.851435635395093">
+      <source w="282" h="282">
+        606612373
+        <url>606612373.swf</url>
+      </source>
+      <resource>
+        <id>606612373</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/2/3/8089dedc12407040939c83d030239bdca4c59.swf</url>
+      </resource>
+      <sourceUrl>plus_w.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="37_122206027" type="image" x="340655.59013263317" y="-412305.8074303183" r="90.30688914228989" s="11.815076637766092">
+      <source w="259" h="259">
+        606563809
+        <url>606563809.swf</url>
+      </source>
+      <resource>
+        <id>606563809</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/6/a/40f381a94a89110c54eda41b92fe06a6bae1c.swf</url>
+      </resource>
+      <sourceUrl>arrow_w.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="38_122206027" type="text" x="340382.26220129785" y="-408020.67338054" r="0" s="117.409819803774" class="body">
+      <height>29.16</height>
+      <width>-120.624</width>
+      <p>
+        <text><![CDATA[Data Access]]></text>
+      </p>
+    </object>
+    <object id="39_122206027" type="text" x="329450.2808251617" y="-428713.5830006089" r="0" s="87.41120530082843" class="body">
+      <height>29.16</height>
+      <width>-118.176</width>
+      <p>
+        <text><![CDATA[Data Island:]]></text>
+      </p>
+    </object>
+    <object id="40_122206027" type="button" x="109480.32968234755" y="-179220.1772483474" r="43.619029418604335" s="1.8807234671814301" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="41_122206027" type="image" x="109452.38629005004" y="-179202.24089790462" r="43.61902941860433" s="1.3682306182861197">
+      <source w="1024" h="768">
+        3217832707
+        <url>3217832707.jpg</url>
+        <mask x="0" y="201" w="1024" h="533"/>
+      </source>
+      <resource>
+        <id>3217832707</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/7/6/899145e68161ee6f7c1dc965d24db25ee8a28.jpg</url>
+      </resource>
+      <sourceUrl>2014-future-of-cloud-computing-4th-annual-survey-results-46-1024.jpg</sourceUrl>
+    </object>
+    <object id="43_122206027" type="button" x="592405.9222741651" y="-189509.53641091875" r="-27.55365192101639" s="86.28775463993678" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="45_122206027" type="button" x="540649.7138154886" y="-181038.024245597" r="-27.55365192101639" s="1.6400100015535435" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="47_122206027" type="image" x="522343.13410188764" y="-158220.94323830368" r="-27.55365192101638" s="78.49449064800808">
+      <source w="638" h="479">
+        3217867861
+        <url>3217867861.jpe</url>
+        <mask x="0" y="91" w="638" h="288"/>
+      </source>
+      <resource>
+        <id>3217867861</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/3/d/bfe0da481d28141af0608ea8caeead09f90b4.jpe</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fimage.slidesharecdn.com%2Fwindowsintune-130305151303-phpapp02%2F95%2Fwindows-intune-5-638.jpg%3Fcb%3D1362518040</sourceUrl>
+    </object>
+    <object id="48_122206027" type="text" x="533097.0491374243" y="-141935.05411432666" r="-27.55365192101639" s="97.95682086775031" class="body">
+      <height>145.8</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[It integrates cloud and premise based device management enabling partners to deliver solutions and services that address customer device management needs across PC, Mac, and mobile device platforms.]]></text>
+      </p>
+    </object>
+    <object id="49_122206027" type="text" x="517184.9404306016" y="-171642.89889796346" r="-27.553651921016385" s="97.9568208677502" class="body">
+      <height>58.32</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[The Unified Device Management solution from                   ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[                                   Microsoft. ]]></text>
+      </p>
+    </object>
+    <object id="0_122206027" type="text" x="584160.7744429613" y="-208812.5607554129" r="-27.553651921016392" s="155.6988614773641" class="body">
+      <height>29.16</height>
+      <width>-301.92</width>
+      <p>
+        <text><![CDATA[INTERCLOUD TECHNOLOGY]]></text>
+      </p>
+    </object>
+    <object id="8_122206027" type="image" x="592982.5992623996" y="-187635.92983723336" r="-27.55365192101642" s="74.95992550664367">
+      <source w="840" h="442">
+        3217899610
+        <url>3217899610.JPG</url>
+      </source>
+      <resource>
+        <id>3217899610</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/d/5/cd679682ea4d8dd3b7fd77fd9290e6be10118.JPG</url>
+      </resource>
+      <sourceUrl>Capture.JPG</sourceUrl>
+    </object>
+    <object id="14_122206027" type="text" x="660978.3802104241" y="-131582.77687683425" r="-27.553651921016385" s="115.95756272047737" class="body">
+      <height>29.16</height>
+      <width>-307.752</width>
+      <p>
+        <text><![CDATA[CLOUD OPERATING SYSTEM:]]></text>
+      </p>
+    </object>
+    <object id="50_122206027" type="marker" x="349135.2520897455" y="-119742.82793056095" r="0" s="2574.0980903664013">
+      <width>544.55</width>
+      <height>375.25</height>
+      <offsetx>-42.775000000000034</offsetx>
+      <offsety>13.125</offsety>
+      <p x="-114.89999988728188" y="-165.1499998379861"/>
+      <p x="-129.9999998724686" y="-164.99999983813322"/>
+      <p x="-138.99999986363952" y="-166.9999998361712"/>
+      <p x="-153.99999984892435" y="-164.99999983813322"/>
+      <p x="-169.99999983322817" y="-157.9999998450003"/>
+      <p x="-179.99999982341808" y="-154.99999984794334"/>
+      <p x="-190.99999981262695" y="-143.99999985873444"/>
+      <p x="-200.99999980281683" y="-129.9999998724686"/>
+      <p x="-214.99999978908272" y="-109.99999989208884"/>
+      <p x="-220.99999978319664" y="-79.99999992151913"/>
+      <p x="-222.99999978123464" y="-66.9999999342723"/>
+      <p x="-224.99999977927263" y="-54.9999999460444"/>
+      <p x="-228.99999977534856" y="-37.999999962721574"/>
+      <p x="-238.9999997655385" y="-34.999999965664585"/>
+      <p x="-250.99999975376636" y="-33.999999966645646"/>
+      <p x="-261.9999997429752" y="-17.999999982341762"/>
+      <p x="-274.9999997302221" y="0"/>
+      <p x="-287.99999971746894" y="26.99999997351273"/>
+      <p x="-305.2999997004975" y="72.34999992902397"/>
+      <p x="-306.99999969882975" y="105.99999989601292"/>
+      <p x="-303.99999970177277" y="128.99999987344967"/>
+      <p x="-296.99999970863985" y="146.9999998557915"/>
+      <p x="-287.99999971746894" y="153.99999984892446"/>
+      <p x="-281.999999723355" y="164.9999998381333"/>
+      <p x="-270.9999997341461" y="174.99999982832315"/>
+      <p x="-258.9999997459183" y="180.99999982243713"/>
+      <p x="-241.99999976259545" y="189.9999998136081"/>
+      <p x="-226.99999977731056" y="192.99999981066497"/>
+      <p x="-211.99999979202573" y="192.99999981066497"/>
+      <p x="-199.9999998037979" y="191.999999811646"/>
+      <p x="-192.99999981066492" y="188.9999998145891"/>
+      <p x="-185.999999817532" y="184.99999981851312"/>
+      <p x="-176.9999998263611" y="180.99999982243713"/>
+      <p x="-165.99999983715225" y="177.99999982538014"/>
+      <p x="-157.99999984500027" y="171.99999983126628"/>
+      <p x="-147.99999985481043" y="166.9999998361713"/>
+      <p x="-140.99999986167745" y="159.99999984303832"/>
+      <p x="-131.9999998705066" y="155.99999984696245"/>
+      <p x="-124.99999987737364" y="151.99999985088647"/>
+      <p x="-114.99999988718378" y="144.9999998577535"/>
+      <p x="-101.99999989993688" y="143.9999998587345"/>
+      <p x="-93.99999990778495" y="139.99999986265863"/>
+      <p x="-85.99999991563305" y="137.99999986462063"/>
+      <p x="-78.99999992250014" y="134.99999986756364"/>
+      <p x="-69.99999993132928" y="129.99999987246866"/>
+      <p x="-58.99999994212044" y="124.99999987737374"/>
+      <p x="-50.99999994996847" y="118.99999988325982"/>
+      <p x="-40.99999995977862" y="113.99999988816484"/>
+      <p x="-29.99999997056966" y="106.99999989503192"/>
+      <p x="-17.99999998234182" y="99.999999901899"/>
+      <p x="-7.99999999215197" y="95.99999990582302"/>
+      <p x="2.999999997056989" y="89.9999999117091"/>
+      <p x="11.999999988227842" y="86.99999991465211"/>
+      <p x="23.999999976455797" y="75.99999992544326"/>
+      <p x="31.999999968607653" y="72.99999992838627"/>
+      <p x="46.99999995389248" y="65.99999993525336"/>
+      <p x="57.99999994310144" y="57.99999994310144"/>
+      <p x="70.99999993034828" y="49.99999995094953"/>
+      <p x="84.99999991661412" y="42.99999995781656"/>
+      <p x="102.99999989895592" y="31.99999996860771"/>
+      <p x="118.99999988325976" y="19.999999980379812"/>
+      <p x="134.9999998675636" y="12.999999987246897"/>
+      <p x="146.99999985579143" y="6.999999993132974"/>
+      <p x="156.9999998459814" y="-0.9999999990189394"/>
+      <p x="172.99999983028522" y="-4.9999999950949245"/>
+      <p x="190.99999981262704" y="-13.999999986265834"/>
+      <p x="204.99999979889287" y="-19.999999980379755"/>
+      <p x="215.99999978810172" y="-23.99999997645574"/>
+      <p x="221.9999997822157" y="-33.999999966645646"/>
+    </object>
+    <object id="51_122206027" type="marker" x="656225.0250917232" y="-422328.08257103653" r="0" s="2574.0980903664013">
+      <width>367.65</width>
+      <height>168.4</height>
+      <offsetx>70.52499999999999</offsetx>
+      <offsety>-108.675</offsety>
+      <p x="-105.79999989620904" y="-170.14999983308104"/>
+      <p x="-95.99999990582296" y="-169.99999983322817"/>
+      <p x="-84.99999991661406" y="-168.99999983420918"/>
+      <p x="-71.99999992936728" y="-167.9999998351902"/>
+      <p x="-61.999999939177314" y="-170.99999983224717"/>
+      <p x="-53.99999994702546" y="-168.99999983420918"/>
+      <p x="-41.999999958797616" y="-163.99999983911425"/>
+      <p x="-33.999999966645646" y="-162.99999984009526"/>
+      <p x="-26.999999973512672" y="-168.99999983420918"/>
+      <p x="-15.999999984303829" y="-174.99999982832313"/>
+      <p x="-6.999999993132974" y="-177.9999998253801"/>
+      <p x="7.99999999215197" y="-183.99999981949404"/>
+      <p x="18.999999981360816" y="-184.99999981851303"/>
+      <p x="29.99999997056966" y="-184.99999981851303"/>
+      <p x="39.999999960759624" y="-184.99999981851303"/>
+      <p x="48.99999995193048" y="-179.99999982341808"/>
+      <p x="53.99999994702546" y="-169.99999983322817"/>
+      <p x="54.999999946044454" y="-157.9999998450003"/>
+      <p x="60.99999994015832" y="-156.9999998459813"/>
+      <p x="71.99999992936728" y="-160.99999984205726"/>
+      <p x="82.99999991857612" y="-162.99999984009526"/>
+      <p x="97.99999990386095" y="-166.9999998361712"/>
+      <p x="110.9999998911079" y="-167.9999998351902"/>
+      <p x="123.99999987835474" y="-168.99999983420918"/>
+      <p x="133.9999998685446" y="-167.9999998351902"/>
+      <p x="141.99999986069656" y="-165.99999983715222"/>
+      <p x="153.9999998489244" y="-159.9999998430383"/>
+      <p x="161.99999984107637" y="-147.9999998548104"/>
+      <p x="162.99999984009526" y="-136.99999986560152"/>
+      <p x="162.99999984009526" y="-125.99999987639264"/>
+      <p x="162.99999984009526" y="-115.99999988620276"/>
+      <p x="168.99999983420923" y="-110.99999989110783"/>
+      <p x="176.9999998263612" y="-112.99999988914578"/>
+      <p x="191.99999981164603" y="-117.99999988424076"/>
+      <p x="202.99999980085488" y="-120.9999998812977"/>
+      <p x="215.99999978810172" y="-120.9999998812977"/>
+      <p x="226.99999977731068" y="-116.99999988522175"/>
+      <p x="235.99999976848153" y="-111.9999998901268"/>
+      <p x="245.9999997586715" y="-104.99999989699388"/>
+      <p x="245.9999997586715" y="-87.99999991367105"/>
+      <p x="245.9999997586715" y="-73.99999992740521"/>
+      <p x="245.9999997586715" y="-63.99999993721531"/>
+      <p x="238.99999976553852" y="-52.999999948006405"/>
+      <p x="231.99999977240552" y="-44.99999995585449"/>
+      <p x="224.99999977927268" y="-35.99999996468358"/>
+      <p x="217.9999997861397" y="-31.999999968607653"/>
+    </object>
+    <object id="52_122206027" type="marker" x="223004.3014655481" y="-573813.7687691828" r="0" s="2574.0980903664013">
+      <width>39.5</width>
+      <height>18</height>
+      <offsetx>-97.75</offsetx>
+      <offsety>-167.5</offsety>
+      <p x="-85.49999991612356" y="-167.69999983548453"/>
+      <p x="-95.99999990582296" y="-168.99999983420918"/>
+      <p x="-103.99999989797487" y="-165.99999983715222"/>
+      <p x="-106.9999998950318" y="-168.99999983420918"/>
+      <p x="-108.9999998930698" y="-166.9999998361712"/>
+      <p x="-109.9999998920888" y="-168.99999983420918"/>
+    </object>
+    <object id="7" type="button" x="-20582.45" y="24188.4" r="55.670013210864575" s="31.86240419762644" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1139.5348837209303</w>
+        <h>600</h>
+      </size>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="0_7722560"/>
+    </s>
+    <s>
+      <eagle o="62"/>
+    </s>
+    <s>
+      <eagle o="51"/>
+    </s>
+    <s>
+      <eagle o="1_122206027"/>
+    </s>
+    <s>
+      <eagle o="22_4843308"/>
+    </s>
+    <s>
+      <eagle o="64_4843308"/>
+    </s>
+    <s>
+      <eagle o="10_122206027"/>
+    </s>
+    <s>
+      <eagle o="67"/>
+    </s>
+    <s>
+      <eagle o="55"/>
+    </s>
+    <s>
+      <eagle o="28_122206027"/>
+    </s>
+    <s>
+      <eagle o="26_122206027"/>
+    </s>
+    <s>
+      <eagle o="40_122206027"/>
+    </s>
+    <s>
+      <eagle o="1_7253810"/>
+    </s>
+    <s>
+      <eagle o="6_7253810"/>
+    </s>
+    <s>
+      <eagle o="13_6734488"/>
+    </s>
+    <s>
+      <eagle o="32"/>
+    </s>
+    <s>
+      <eagle o="33"/>
+    </s>
+    <s>
+      <eagle o="6"/>
+    </s>
+    <s>
+      <eagle o="8_7492404"/>
+    </s>
+    <s>
+      <eagle o="0_1340195"/>
+    </s>
+    <s>
+      <eagle o="13_7492404"/>
+    </s>
+    <s>
+      <eagle o="34"/>
+    </s>
+    <s>
+      <eagle o="5_7253810"/>
+    </s>
+    <s>
+      <eagle o="17_6734488"/>
+    </s>
+    <s>
+      <eagle o="104"/>
+    </s>
+    <s>
+      <eagle o="7"/>
+    </s>
+    <s>
+      <eagle o="3_7380011"/>
+    </s>
+    <s>
+      <eagle o="4_7380011"/>
+    </s>
+    <s>
+      <eagle o="18_122206027"/>
+    </s>
+    <s>
+      <eagle o="12_7375810"/>
+    </s>
+    <s>
+      <eagle o="4_7253810"/>
+    </s>
+    <s>
+      <eagle o="3_7412544"/>
+    </s>
+    <s>
+      <eagle o="6_7412544"/>
+    </s>
+    <s>
+      <eagle o="124"/>
+    </s>
+    <s>
+      <eagle o="46_122206027"/>
+    </s>
+    <s>
+      <eagle o="43_122206027"/>
+    </s>
+    <s>
+      <eagle o="65"/>
+    </s>
+    <s>
+      <eagle o="5"/>
+    </s>
+    <s>
+      <eagle o="82"/>
+    </s>
+    <s>
+      <eagle o="48"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Cabin-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+.line1
+{
+	color: #ab3e48;
+	gradEndColor: #ab3e48;
+	gradStartColor: #ab3e48;
+}
+
+.line2
+{
+	color: #e74c3c;
+	gradEndColor: #e74c3c;
+	gradStartColor: #e74c3c;
+}
+
+.line3
+{
+	color: #ecf0f1;
+	gradEndColor: #ecf0f1;
+	gradStartColor: #ecf0f1;
+}
+
+.line4
+{
+	color: #3a91fb;
+	gradEndColor: #3a91fb;
+	gradStartColor: #3a91fb;
+}
+
+.line5
+{
+	color: #226ccc;
+	gradEndColor: #226ccc;
+	gradStartColor: #226ccc;
+}
+
+.poly1
+{
+	color: #2c3e50;
+	gradEndColor: #ab3e48;
+	gradStartColor: #ab3e48;
+}
+
+.poly2
+{
+	gradEndColor: #e74c3c;
+	gradStartColor: #e74c3c;
+}
+
+.poly3
+{
+	color: #2c3e50;
+	gradEndColor: #ecf0f1;
+	gradStartColor: #ecf0f1;
+}
+
+.poly4
+{
+	color: #2c3e50;
+	gradEndColor: #3a91fb;
+	gradStartColor: #3a91fb;
+}
+
+.poly5
+{
+	gradEndColor: #226ccc;
+	gradStartColor: #226ccc;
+}
+
+Background
+{
+	gradEnd: #2c3e50;
+	gradStart: #2c3e50;
+}
+
+Grid
+{
+	color: #435f7a;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	thickness: 7;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #581b80;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #ab3e48;
+	gradStartAlpha: 1;
+	gradStartColor: #ab3e48;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #ea4b3d;
+	gradStartAlpha: 1;
+	gradStartColor: #ea4b3d;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: .8;
+	borderColor: #226ccc;
+	borderThickness: 25;
+	gradEndAlpha: 0.6;
+	gradEndColor: #226ccc;
+	gradStartAlpha: 0.6;
+	gradStartColor: #226ccc;
+	padding: 1.03;
+	radius: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #ecf0f1;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.7;
+	background-color: #e74c3c;
+	background-padding: 5;
+}
+
+ZLabel.head
+{
+	color: #ecf0f1;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #3a91fb;
+	background-padding: 5;
+}
+
+ZLabel.strong
+{
+	color: #ecf0f1;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.7;
+	background-color: #e74c3c;
+	background-padding: 5;
+}
+
+ZLine
+{
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+}
+
+ZMarker
+{
+	color: #fff;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 15;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>2763c5f4</hash>
+  <config>ZdlY/BNZRdcqvQAbC6UAx6gLRIA7DO7F6g==</config>
+</zuiprezi>
