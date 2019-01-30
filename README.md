@@ -1,2 +1,4 @@
 # Data-Islanding-or-Cloud
-Presesnation at Vesit 
+Presentation at Vesit 
+
+Download the folder and Install prezi.exe to view the presentation
